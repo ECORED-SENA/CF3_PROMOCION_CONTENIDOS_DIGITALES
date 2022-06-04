@@ -233,7 +233,7 @@ export default {
       referencia:
         'Kotler, P. & Armstrong, G. (2003). Fundamentos de <i>marketing</i>. Pearson Educación.',
       tipo: 'Libro',
-      descarga: 'downloads/Fundamentos_De_Marketing_Kotler_Armstrong.pdf',
+      descarga: '/downloads/Fundamentos_De_Marketing_Kotler_Armstrong.pdf',
     },
     {
       tema: 'Dirección de <i>marketing</i>',
