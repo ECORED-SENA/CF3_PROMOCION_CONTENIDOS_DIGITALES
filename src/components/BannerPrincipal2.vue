@@ -229,13 +229,27 @@ export default {
   100%
     transform: translatex(0px)
 
-
 @media (max-width: $bp-max-md)
   .fondo-contenido
     display: none
   .fondo-contenido2
     background-repeat: no-repeat
     background-size: cover
-.banner-principal .tarjeta
-  background-size: 100% 100%
+  .banner-principal__info
+    padding-left: 15px  !important
+  .imagen_flotante
+    &_1, &_2, &_3, &_4, &_5, &_6, &_7, &_8, &_9, &_10, &_11, &_12
+      display: none
+
+@media (max-width: 1300px)
+  .imagen_flotante
+    &_1, &_2, &_3, &_4, &_5, &_6, &_7, &_8, &_9, &_10, &_11, &_12, &_13
+      padding-left: 1em
+      margin-left: 1.8em
+  .imagen_flotante
+    &_4, &_9, &_10, &_12,
+      margin-right: -2em
+  .imagen_flotante
+    &_1,
+      max-width: 210px
 </style>
