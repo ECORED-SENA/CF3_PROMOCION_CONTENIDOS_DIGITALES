@@ -228,18 +228,14 @@ export default {
     transform: translatex(20px)
   100%
     transform: translatex(0px)
+
+
 @media (max-width: $bp-max-md)
   .fondo-contenido
     display: none
   .fondo-contenido2
     background-repeat: no-repeat
     background-size: cover
-  .banner-principal__info
-    padding-left: 15px  !important
-  .imagen_flotante
-    &_1, &_2, &_3, &_4, &_5
-      display: none
-  .imagen_escalable
-    &_6, &_7, &_8
-      display: none
+.banner-principal .tarjeta
+  background-size: 100% 100%
 </style>
