@@ -52,22 +52,22 @@
           p.my-4(data-aos="fade-down") Un medio digital es cualquier comunicación realizada a través de Internet, por ejemplo:       
         .col-lg-6
           SlyderG(columnas="col-lg-6")(data-aos="fade-right")
-            .crd.crd--100.tarjeta.color-primario.p-4
+            .crd.crd--100.tarjeta.color-primario.p-4.bg-sg
               .row.justify-content-center.mb-3
                 .col-8
                   img.img-a.img-t(src='@/assets/curso/temas/img92.svg' alt='AvatarTop')
               h4.text-center Las publicaciones en las redes sociales. 
-            .crd.crd--100.tarjeta.color-primario.p-4
+            .crd.crd--100.tarjeta.color-primario.p-4.bg-sg
               .row.justify-content-center.mb-3
                 .col-8
                   img.img-a.img-t(src='@/assets/curso/temas/img93.svg' alt='AvatarTop')
               h4.text-center Los banners en los sitios web. 
-            .crd.crd--100.tarjeta.color-primario.p-4
+            .crd.crd--100.tarjeta.color-primario.p-4.bg-sg
               .row.justify-content-center.mb-3
                 .col-8
                   img.img-a.img-t(src='@/assets/curso/temas/img94.svg' alt='AvatarTop')
               h4.text-center Los e-books.
-            .crd.crd--100.tarjeta.color-primario.p-4
+            .crd.crd--100.tarjeta.color-primario.p-4.bg-sg
               .row.justify-content-center.mb-3
                 .col-8
                   img.img-a.img-t(src='@/assets/curso/temas/img95.svg' alt='AvatarTop')
@@ -175,8 +175,43 @@
             i.fas.fa-dot-circle          
             p.mb-0 La fidelización de clientes es el resultado de la estrategia de marketing.                
 
-    p(data-aos="fade-down").mt-5.text-center Algunos ejemplos de medios ganados son los siguientes:        
-    img.img-a.img-t.mt-5(data-aos="zoom-in")(src='@/assets/curso/temas/img99.svg', alt='')  
+    p(data-aos="fade-down").mt-5.text-center Algunos ejemplos de medios ganados son los siguientes:  
+    .row.justify-content-center.align-items-center.mt-5
+      .col-lg-10
+        .row.justify-content-start.align-items-center
+          .col-lg-4.col-sm-8.bw.col-md-6
+            .row.justify-content-start.align-items-center
+              .col-auto.p-0.up
+                img(data-aos="zoom-in")(src='@/assets/curso/temas/1.svg', alt='') 
+              .col.bga.p-3 
+                h5.ms-4.mb-0.text-white User generated content
+          .col-lg-3.col-sm-8.bw.col-md-6
+            .row.justify-content-start.align-items-center
+              .col-auto.p-0.up
+                img(data-aos="zoom-in")(src='@/assets/curso/temas/2.svg', alt='') 
+              .col.bga.p-3 
+                h5.ms-4.mb-0.text-white Linkbuilding
+          .col-lg-5.col-sm-8.bw.col-md-6
+            .row.justify-content-start.align-items-center
+              .col-auto.p-0.up
+                img(data-aos="zoom-in")(src='@/assets/curso/temas/3.svg', alt='') 
+              .col.bga.p-3 
+                h5.ms-4.mb-0.text-white Search Engine Optimization – SEO
+
+        .row.justify-content-start.align-items-center
+          .col-lg-5.col-sm-8.bw.col-md-6
+            .row.justify-content-start.align-items-center
+              .col-auto.p-0.up
+                img(data-aos="zoom-in")(src='@/assets/curso/temas/4.svg', alt='') 
+              .col.bga.p-3 
+                h5.ms-4.mb-0.text-white Interacciones en redes sociales
+          .col-lg-5.col-sm-8.bw.col-md-6
+            .row.justify-content-start.align-items-center
+              .col-auto.p-0.up
+                img(data-aos="zoom-in")(src='@/assets/curso/temas/5.svg', alt='') 
+              .col.bga.p-3 
+                h5.ms-4.mb-0.text-white Evaluaciones, testimonios y opiniones
+
 
     .row.justify-content-start.align-items-center.mt-5.pt-5(data-aos="flip-down")
       .col-lg-4 
@@ -226,7 +261,7 @@
           .col-lg-10
             p(data-aos="fade-down").mb-0 Su funcionalidad está basada en sistemas operativos y software conforme a la finalidad del servicio para las que son creadas y, son valoradas como una gran herramienta administrativa como estrategia digital que incentiva la participación cuando suplen necesidades básicas de una comunidad.         
       .col-lg-4
-        img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img103.png', alt='')  
+        img.img-a.img-t.my-3(data-aos="zoom-in")(src='@/assets/curso/temas/img103.png', alt='')  
 
     .row.justify-content-center.align-items-center.mt-5
       .col-lg-5

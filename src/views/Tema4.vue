@@ -96,28 +96,28 @@
       .row.justify-content-center.align-items-stretch.mt-5
         .col-lg-6.col-md-6.col-xl-4.bg-card5.p-4(data-aos="fade-left")
           .bg-interno.p-4.h-100
-            h5.b.text-center.mb-4 Examinar la visibilidad
+            h4.b.text-center.mb-4 Examinar la visibilidad
             p.text-center Es decir verificar si somos conocidos en los diferentes canales digitales.  
 
         .col-lg-6.col-md-6.col-xl-4.bg-card6.p-4(data-aos="fade-left")
           .bg-interno.p-4.h-100
-            h5.b.text-center.mb-4 Identificar el número de visitas
+            h4.b.text-center.mb-4 Identificar el número de visitas
             p.text-center  Verificar cuántos cibernautas de manera orgánica han visitado los canales digitales o han interactuado en ella, en función de un periodo de tiempo determinado. 
 
         .col-lg-6.col-md-6.col-xl-4.bg-card7.p-4(data-aos="fade-left")
           .bg-interno.p-4.h-100
-            h5.b.text-center.mb-4 Analizar estadísticas y formularios
+            h4.b.text-center.mb-4 Analizar estadísticas y formularios
             p.text-center Es la práctica de recopilar información mediante el diligenciamiento de formularios en los canales digitales, igualmente, aplica como estrategia de número de visitas.                          
 
       .row.justify-content-center.align-items-stretch
         .col-lg-6.col-md-6.col-xl-4.bg-card8.p-4(data-aos="fade-left")
           .bg-interno.p-4.h-100
-            h5.b.text-center.mb-4 Verificar cuántos se convierten en leads
+            h4.b.text-center.mb-4 Verificar cuántos se convierten en leads
             p.text-center Leads o cliente potencial que gracias al contenido del sitio web suministra información importante para la estrategia de marketing.  
 
         .col-lg-6.col-md-6.col-xl-4.bg-card9.p-4(data-aos="fade-left")
           .bg-interno.p-4.h-100
-            h5.b.text-center.mb-4 Medir el número de clientes
+            h4.b.text-center.mb-4 Medir el número de clientes
             p.text-center Es la monitorización del número de cibernautas que compran en nuestro sitio web o en uno de nuestros canales digitales.              
 
     .row.justify-content-center.align-items-center.mt-5
@@ -127,7 +127,7 @@
           span En #[i marketing] se considera que una audiencia reacciona como respuesta a un estímulo cuando mediante el consumo de contenido interactúa como respuesta a ello
         p.mb-0 Para impactar a una comunidad que cada día está más conectada y demanda más contenido se requiere por parte de las empresas y administradores de comunidad ofrecer productos y servicios personalizados, que estimulen y cumplan con las expectativas de los consumidores. 
       .col-lg-3.col-sm-my-3.my-sm-3
-        img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img137.png', alt='')
+        img.img-a.img-t.my-3(data-aos="zoom-in")(src='@/assets/curso/temas/img137.png', alt='')
 
     p(data-aos="fade-down").mt-5 Las 4C como modelo del marketing buscan evaluar al cliente así:
     .bg13(data-aos="slide-right")
@@ -139,7 +139,7 @@
                 .col-auto
                   img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img139.svg', alt='')
                 .col-6
-                  p.mb-0 #[b Consumidor]
+                  h4.mb-0 #[b Consumidor]
               p.mt-4 Analiza los gustos y preferencias del consumidor con el propósito de crear o vender un producto deseable y único.
 
         
@@ -148,7 +148,7 @@
                 .col-auto
                   img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img140.svg', alt='')
                 .col-6
-                  p.mb-0 #[b Costo]         
+                  h4.mb-0 #[b Costo]         
               p.mt-4 Analiza el mercado con relación a los precios para ofrecer el más idóneo al consumidor.
 
 
@@ -157,7 +157,7 @@
                 .col-auto
                   img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img141.svg', alt='')
                 .col-6
-                  p.mb-0 #[b Conveniencia]         
+                  h4.mb-0 #[b Conveniencia]         
               p.mt-4 Analiza qué está dispuesto a realizar el consumidor para comprar un producto.
  
             .col-md-6.col-xl.mb-4.mb-xl-0.bgf.p-3.text-white(data-aos="fade-right")
@@ -165,7 +165,7 @@
                 .col-auto
                   img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img142.svg', alt='')
                 .col-6
-                  p.mb-0 #[b Comunicación]         
+                  h4.mb-0 #[b Comunicación]         
               p.mt-4 Analiza la interacción con los consumidores (métricas).
 
     p(data-aos="fade-down").mt-5 Entender a los consumidores en su comportamiento a la hora de consumir contenido permitirá la generación de estímulos mediante la implementación de estrategias de marketing personalizadas.  La interacción de la audiencia es la estrategia que a través de herramientas tecnológicas busca fomentar conversaciones y generar impacto en las diferentes comunidades virtuales y la sociedad. Dentro de las principales herramientas de interacción se destacan las redes sociales dentro de las cuales se pueden destacar: 

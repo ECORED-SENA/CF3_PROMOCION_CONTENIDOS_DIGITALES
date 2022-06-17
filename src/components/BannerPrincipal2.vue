@@ -1,15 +1,14 @@
 <template lang="pug">
 .banner-principal
-  .container.tarjeta.position-relative(
+  .container.tarjeta(
     :style="{'background-image': globalData.fondoBannerPrincipal ? `url(${globalData.fondoBannerPrincipal})` : 'none'}"
   )
-    .row.banner-principal__row.position-relative.justify-content-center.align-items-center
-      .col-lg-7.col-xxl-6.py-4.py-sm-5.banner-principal__info.ps-5
+    .row.banner-principal__row
+      .col-lg-7.col-xxl-5.ps-4.ps-sm-5.py-4.py-sm-5.banner-principal__info
         .banner-principal__componente
           h1.mb-0(v-html="globalData.componenteFormativo")
-        .col-lg-12
-          .banner-principal__descripcion
-            p.mb-0(v-html="globalData.descripcionCurso")
+        .banner-principal__descripcion
+          p.mb-0(v-html="globalData.descripcionCurso")
         .banner-principal__accion
           router-link.boton(:to="{name: iniciarLnk.nombreRuta }")
             span.me-1 Ver más
@@ -114,7 +113,7 @@ export default {
     position: absolute
     width: 222px
     top: 30%
-    left: 57.7% !important
+    left: 61.7% !important
     z-index: 0
 
   &_2
@@ -122,7 +121,7 @@ export default {
     position: absolute
     width: 80px
     top: 81% !important
-    left: 58.4%
+    left: 62.4%
 
 
   &_3
@@ -130,7 +129,7 @@ export default {
     position: absolute
     width: 80px
     top: 54%
-    right: 12.9% !important
+    right: 7.9% !important
     z-index: 0
 
   &_4
@@ -138,7 +137,7 @@ export default {
     position: absolute
     width: 60px
     top: 67%
-    right: 41.7% !important
+    right: 37.3% !important
     z-index: 0
 
   &_5
@@ -146,7 +145,7 @@ export default {
     position: absolute
     width: 60px
     top: 46%
-    right: 34% !important
+    right: 30% !important
     z-index: 0
 
   &_6
@@ -154,7 +153,7 @@ export default {
     position: absolute
     width: 60px
     top: 34.5%
-    right: 24.6% !important
+    right: 20.6% !important
     z-index: 0
 
   &_7
@@ -162,7 +161,7 @@ export default {
     position: absolute
     width: 32px
     top: 26%
-    left: 66% !important
+    left: 70% !important
     z-index: 0
 
   &_8
@@ -170,7 +169,7 @@ export default {
     position: absolute
     width: 47px
     top: 20% !important
-    left: 69.1%
+    left: 73.1%
 
 
   &_9
@@ -178,7 +177,7 @@ export default {
     position: absolute
     width: 60px
     top: 33.4%
-    right: 41.8% !important
+    right: 37.8% !important
     z-index: 0
 
   &_10
@@ -186,7 +185,7 @@ export default {
     position: absolute
     width: 60px
     top: 24.3%
-    right: 36% !important
+    right: 32% !important
     z-index: 0
 
   &_11
@@ -194,7 +193,7 @@ export default {
     position: absolute
     width: 61px
     top: 60%
-    right: 25.3% !important
+    right: 21.3% !important
     z-index: 0
 
   &_12
@@ -202,7 +201,7 @@ export default {
     position: absolute
     width: 60px
     top: 77%
-    right: 25% !important
+    right: 21% !important
     z-index: 0
 
   &_13
@@ -210,7 +209,7 @@ export default {
     position: absolute
     width: 60px
     top: 68.4%
-    right: 30.5% !important
+    right: 26.5% !important
     z-index: 0
 
 @keyframes float1
@@ -242,14 +241,8 @@ export default {
       display: none
 
 @media (max-width: 1300px)
-  .imagen_flotante
-    &_1, &_2, &_3, &_4, &_5, &_6, &_7, &_8, &_9, &_10, &_11, &_12, &_13
-      padding-left: 1em
-      margin-left: 1.8em
-  .imagen_flotante
-    &_4, &_9, &_10, &_12,
-      margin-right: -2em
+
   .imagen_flotante
     &_1,
-      max-width: 210px
+      max-width: 190px
 </style>

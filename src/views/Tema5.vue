@@ -40,27 +40,27 @@
         SlyderA(tipo="b")
           .row.justify-content-center.align-items-center
             .col-10
-              h5 Volatilidad 
+              h4 Volatilidad 
               p Hace referencia a la inestabilidad y difícil retención de los usuarios especialmente cuando es seguidor a través de una red social.  
           .row.justify-content-center.align-items-center
             .col-10
-              h5 Conocimiento
+              h4 Conocimiento
               p Hace referencia a toda la información que puede suministrar un seguidor con relación a sus gustos, intereses y preferencias.  
           .row.justify-content-center.align-items-center
             .col-10
-              h5 Alcance
+              h4 Alcance
               p Hace referencia al uso de las redes sociales como medio digital de comunicación para interactuar con el seguidor a través del contenido. 
           .row.justify-content-center.align-items-center
             .col-10
-              h5 Difusión
+              h4 Difusión
               p Hace referencia a la difusión del contenido a través de la utilización de los medios sociales por los que interactúa el seguidor.
           .row.justify-content-center.align-items-center
             .col-10
-              h5 Futuro
+              h4 Futuro
               p Hace referencia a la incertidumbre que presenta el seguidor de su continuidad en una red social o comunidad como seguidor, debido al cambio de sus gustos y preferencias y nuevas alternativas de interacción virtual.  
           .row.justify-content-center.align-items-center
             .col-10
-              h5 Rentabilidad
+              h4 Rentabilidad
               p Hace referencia a la menor inversión que genera lograr un determinado número de seguidores con relación a un determinado número de clientes.                                                                       
       .col-lg-5.my-3
         img.img-a(data-aos="zoom-in")(src='@/assets/curso/temas/img150.png', alt='') 
@@ -69,45 +69,46 @@
     #t_5_2.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
       h2 5.2  Tipos de seguidores 
 
-    .row.justify-content-center.align-items-center.bg15.p-4
+    .row.justify-content-center.align-items-center.bg15.p-3
       .col-lg-5
-        img.img-a(data-aos="zoom-in")(src='@/assets/curso/temas/img151.png', alt='') 
+        img.img-a.my-3(data-aos="zoom-in")(src='@/assets/curso/temas/img151.png', alt='') 
       .col-lg-7
         p(data-aos="fade-down") La construcción de una comunidad se basa específicamente en la identificación del objetivo a lograr, del segmento  y del mercado al cual se desea dar alcance. 
 
         p(data-aos="fade-down").mb-0 Por lo anterior, cada seguidor se convierte en el mejor canal de difusión para el contenido que crea la estrategia de marketing digital.       
 
     p(data-aos="fade-down").mt-5 El éxito de alcanzar un buen número de seguidores radica en enfocar la estrategia, teniendo definido el tipo de  seguidor al cual se quiere involucrar.
+    .row.justify-content-center.align-items-center
+      .col-lg-10
+        .tabla-a.color-acento-botones.mt-5(data-aos="fade-right") 
+          table
+            thead
+              tr.bgth
+                td.text-white.text-center #[b TIPO]
+                td.text-white.text-center #[b CARACTERÍSTICA]
+                td.text-white.text-center #[b ESTRATEGIA]
 
-    .tabla-a.color-acento-botones.mt-5(data-aos="fade-right") 
-      table
-        thead
-          tr.bgth
-            td.text-white.text-center #[b TIPO]
-            td.text-white.text-center #[b CARACTERÍSTICA]
-            td.text-white.text-center #[b ESTRATEGIA]
-
-        tbody
-          tr.bgtr
-            td Profesionales
-            td Quieren ser vistos como líderes de opinión y expertos en su campo.
-            td Contenido a producir altamente relevante.
-          tr
-            td <i>Milennials</i> 
-            td Jóvenes populares y creativos.
-            td Contenido a producir altamente visual y que genere el factor <i>cool</i>.
-          tr.bgtr
-            td Sociables
-            td Personas amantes del debate. 
-            td Contenido con humor y controversia.
-          tr
-            td Solicitantes de atención
-            td Personas que buscan reconocimiento “me gusta”.
-            td Contenido creando concursos, campañas, fotos y videos. 
-          tr.bgtr
-            td Selectivos y exigentes
-            td Personas que interactúan con quienes ya tienen una relación. 
-            td Contenido a través de infografías e imágenes de calidad.                                                 
+            tbody
+              tr.bgtr
+                td Profesionales
+                td Quieren ser vistos como líderes de opinión y expertos en su campo.
+                td Contenido a producir altamente relevante.
+              tr
+                td <i>Milennials</i> 
+                td Jóvenes populares y creativos.
+                td Contenido a producir altamente visual y que genere el factor <i>cool</i>.
+              tr.bgtr
+                td Sociables
+                td Personas amantes del debate. 
+                td Contenido con humor y controversia.
+              tr
+                td Solicitantes de atención
+                td Personas que buscan reconocimiento “me gusta”.
+                td Contenido creando concursos, campañas, fotos y videos. 
+              tr.bgtr
+                td Selectivos y exigentes
+                td Personas que interactúan con quienes ya tienen una relación. 
+                td Contenido a través de infografías e imágenes de calidad.                                                 
 
     Separador 
     #t_5_3.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")

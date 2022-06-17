@@ -13,7 +13,7 @@
           .col-lg-8
             p(data-aos="fade-down") Para entender a que hace referencia el concepto de comunidad virtual se hace necesario, en primera instancia, conocer la definición del término comunidad y del término virtual. 
             p(data-aos="fade-down") Para Baym (2002), el término comunidad es muy complejo de definir, 
-              span.b “ya que tiene connotaciones descriptivas, normativas e ideológicas y abarca tanto dimensiones materiales como simbólicas” (p. 55)
+              span.b #[b “ya que tiene connotaciones descriptivas, normativas e ideológicas y abarca tanto dimensiones materiales como simbólicas” (p. 55)]
               span , es decir, el término comunidad abarca diferentes escenarios donde el individuo tiene la posibilidad de expresarse de acuerdo con sus ideologías y creencias. 
 
             .bloque-texto-b.color-secundario.px-4(data-aos="fade-down")
@@ -184,7 +184,7 @@
             ul.lista-ul--color
               li 
                 i.fas.fa-dot-circle          
-                p.mb-0 De asignación voluntaria.  libre.                                       
+                p.mb-0 De asignación voluntaria.
           .col-lg-4.mt-4
             ul.lista-ul--color
               li 
@@ -202,21 +202,21 @@
             .tarjeta-avatar-slide__img.mb-4
               .tarjeta-avatar-slide__img__item: img.imga-a.img-t(src='@/assets/curso/temas/img14.png', alt='Texto que describa la imagen' )
               .tarjeta-avatar-slide__img__item: img.imga-a.img-t(src='@/assets/curso/temas/img14_1.png', alt='Texto que describa la imagen' )
-            h5.b.text-center #[b ­Función de distribución]
+            h4.b.text-center #[b ­Función de distribución]
             p.s.mt-4 Cuando la principal función de la comunidad radica en la distribución de información, mensajes entre los miembros.
         .col-lg-4.mb-4(data-aos="fade-down")
           .tarjeta.tarjeta-avatar-slide.color-acento-botones.p-4.h-100
             .tarjeta-avatar-slide__img.mb-4
               .tarjeta-avatar-slide__img__item: img.imga-a.img-t(src='@/assets/curso/temas/img15.png', alt='Texto que describa la imagen' )
               .tarjeta-avatar-slide__img__item: img.imga-a.img-t(src='@/assets/curso/temas/img15_1.png', alt='Texto que describa la imagen' )
-            h5.b.text-center #[b ­Función de compartir]
+            h4.b.text-center #[b ­Función de compartir]
             p.s.mt-4 Cuando la principal función de la comunidad se trata de comunidades donde prima el intercambio de experiencias y recursos.
         .col-lg-4.mb-4(data-aos="fade-right")
           .tarjeta.tarjeta-avatar-slide.color-acento-botones.p-4.h-100
             .tarjeta-avatar-slide__img.mb-4
               .tarjeta-avatar-slide__img__item: img.imga-a.img-t(src='@/assets/curso/temas/img16.png', alt='Texto que describa la imagen' )
               .tarjeta-avatar-slide__img__item: img.imga-a.img-t(src='@/assets/curso/temas/img16_1.png', alt='Texto que describa la imagen' )
-            h5.b.text-center #[b Función de creación]
+            h4.b.text-center #[b Función de creación]
             p.s.mt-4 Cuando la principal función de la comunidad se genera de los procesos de trabajo colaborativo con el objeto de lograr materiales, documentos, proyectos compartidos.    
 
     
@@ -263,35 +263,36 @@
               p.mb-0 Comunidades de innovación. Buscan compartir, intercambiar y generar procesos de innovación en distintos campos, muy similar a las comunidades de investigación. 
 
       p(data-aos="fade-down").mt-5.text-center Finalmente, Jonassen, Pech, y Wilson (1998) establecen cuatro tipos de comunidades virtuales: 
+      .row.justify-content-center.align-items-center
+        .col-lg-10
+          PasosA.color-acento-contenido.mt-5(tipo="n")(data-aos="fade-right")
+            .row.justify-content-center.align-items-center
+              .col-lg-10
+                h4(data-aos="fade-down") De discurso
+                p(data-aos="fade-down") El objetivo es compartir intereses comunes con otras personas a través de las TIC. Un cara a cara virtual.
+              .col-auto.my-3 
+                img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img21.svg', alt='')
 
-      PasosA.color-acento-contenido.mt-5(tipo="n")(data-aos="fade-right")
-        .row.justify-content-center.align-items-center
-          .col-lg-10
-            h4(data-aos="fade-down") De discurso
-            p(data-aos="fade-down") El objetivo es compartir intereses comunes con otras personas a través de las TIC. Un cara a cara virtual.
-          .col-auto.my-3 
-            img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img21.svg', alt='')
+            .row.justify-content-center.align-items-center
+              .col-auto.my-3 
+                img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img22.svg', alt='')
+              .col-lg-10.text-start
+                h4(data-aos="fade-down") De práctica
+                p(data-aos="fade-down") Para la enseñanza mediante grupos de trabajo (comunidades de práctica), asigna roles, enseña y apoya a otros y desarrolla identidades que son definidas por los roles que desempeña en el apoyo al grupo.
 
-        .row.justify-content-center.align-items-center
-          .col-auto.my-3 
-            img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img22.svg', alt='')
-          .col-lg-10.text-start
-            h4(data-aos="fade-down") De práctica
-            p(data-aos="fade-down") Para la enseñanza mediante grupos de trabajo (comunidades de práctica), asigna roles, enseña y apoya a otros y desarrolla identidades que son definidas por los roles que desempeña en el apoyo al grupo.
+            .row.justify-content-center.align-items-center
+              .col-lg-10
+                h4(data-aos="fade-down") De construcción de conocimiento
+                p(data-aos="fade-down") El aprendizaje como una meta. Este tipo de comunidades son de apoyo a grupos de estudiantes.
+              .col-auto.my-3 
+                img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img23.svg', alt='')
 
-        .row.justify-content-center.align-items-center
-          .col-lg-10
-            h4(data-aos="fade-down") De construcción de conocimiento
-            p(data-aos="fade-down") El aprendizaje como una meta. Este tipo de comunidades son de apoyo a grupos de estudiantes.
-          .col-auto.my-3 
-            img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img23.svg', alt='')
-
-        .row.justify-content-center.align-items-center
-          .col-auto.my-3 
-            img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img24.svg', alt='')
-          .col-lg-10.text-start
-            h4(data-aos="fade-down") De aprendizaje
-            p(data-aos="fade-down") La comunidad como organización social donde las personas comparten conocimiento a través de sus propias identidades, no hay competencia de unos con otros, se aprende de la experiencia de la exclusión de los otros. 
+            .row.justify-content-center.align-items-center
+              .col-auto.my-3 
+                img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img24.svg', alt='')
+              .col-lg-10.text-start
+                h4(data-aos="fade-down") De aprendizaje
+                p(data-aos="fade-down") La comunidad como organización social donde las personas comparten conocimiento a través de sus propias identidades, no hay competencia de unos con otros, se aprende de la experiencia de la exclusión de los otros. 
 
       .row.justify-content-center.align-items-center.mt-5
         .col-lg-8
@@ -464,62 +465,62 @@
 
     p(data-aos="fade-down").mt-5 Con el fin de complementar se identifican los datos demográficos y los elementos que intervienen para el posicionamiento y crecimiento de la comunidad como componentes de una comunidad virtual. 
     img.img-a.img-t.mt-5(data-aos="zoom-in")(src='@/assets/curso/temas/img44.svg', alt='')
+    .bg16
+      .row.justify-content-center.align-items-center.mt-5
+        .col-lg-5
+          img.img-a.img-t.my-3(data-aos="zoom-in")(src='@/assets/curso/temas/img45.png', alt='')
+        .col-lg-7
+          .row.justify-content-start.align-items-center(data-aos="flip-down")
+            .col-lg-12
+              h4.title.text-center.p-2 Estrategias a implementar para el posicionamiento de la comunidad virtual
+          p(data-aos="fade-down").mt-4 Definir estrategias de difusión y visibilidad con acciones como:
+          ul.lista-ul--color(data-aos="fade-down")
+            li 
+              i.fas.fa-dot-circle          
+              p.mb-0 Crear redes sociales, con adecuadas y efectivas estrategias de difusión.
+            li 
+              i.fas.fa-dot-circle          
+              p.mb-0 Crear una página web para la construcción de relaciones.
+            li 
+              i.fas.fa-dot-circle          
+              p.mb-0 Implementar el cronograma de contenidos. 
+            li 
+              i.fas.fa-dot-circle          
+              p.mb-0 Monitorear las redes sociales. 
+            li 
+              i.fas.fa-dot-circle          
+              p.mb-0 Crear un blog. 
+          p(data-aos="fade-down").mt-4 Establecer relaciones públicas en línea con comunidades afines así:
+          ul.lista-ul--color(data-aos="fade-down")
+            li 
+              i.fas.fa-dot-circle          
+              p.mb-0 Crear una base de datos de personas influyentes afines.  
+            li 
+              i.fas.fa-dot-circle          
+              p.mb-0 Crear una base de datos de los distintos grupos de interés afines. 
 
-    .row.justify-content-center.align-items-center.mt-5
-      .col-lg-5
-        img.img-a.img-t.my-3(data-aos="zoom-in")(src='@/assets/curso/temas/img45.png', alt='')
-      .col-lg-7
-        .row.justify-content-start.align-items-center(data-aos="flip-down")
-          .col-lg-12
-            h4.title.text-center.p-2 Estrategias a implementar para el posicionamiento de la comunidad virtual
-        p(data-aos="fade-down").mt-4 Definir estrategias de difusión y visibilidad con acciones como:
-        ul.lista-ul--color(data-aos="fade-down")
-          li 
-            i.fas.fa-dot-circle          
-            p.mb-0 Crear redes sociales, con adecuadas y efectivas estrategias de difusión.
-          li 
-            i.fas.fa-dot-circle          
-            p.mb-0 Crear una página web para la construcción de relaciones.
-          li 
-            i.fas.fa-dot-circle          
-            p.mb-0 Implementar el cronograma de contenidos. 
-          li 
-            i.fas.fa-dot-circle          
-            p.mb-0 Monitorear las redes sociales. 
-          li 
-            i.fas.fa-dot-circle          
-            p.mb-0 Crear un blog. 
-        p(data-aos="fade-down").mt-4 Establecer relaciones públicas en línea con comunidades afines así:
-        ul.lista-ul--color(data-aos="fade-down")
-          li 
-            i.fas.fa-dot-circle          
-            p.mb-0 Crear una base de datos de personas influyentes afines.  
-          li 
-            i.fas.fa-dot-circle          
-            p.mb-0 Crear una base de datos de los distintos grupos de interés afines. 
+      .row.justify-content-center.align-items-center.mt-5
+        .col-lg-7
+          .row.justify-content-start.align-items-center(data-aos="flip-down")
+            .col-lg-12
+              h4.title.text-center.p-2 Estrategias a implementar para el crecimiento de la comunidad virtual 
+          p(data-aos="fade-down").mt-4 Brindar soporte y ayuda con acciones como:
+          ul.lista-ul--color(data-aos="fade-down")
+            li 
+              i.fas.fa-dot-circle          
+              p.mb-0 Crear contenido. 
+            li 
+              i.fas.fa-dot-circle          
+              p.mb-0 Crear eventos y foros. 
+            li 
+              i.fas.fa-dot-circle          
+              p.mb-0 Crear redes por temas de interés.
+            li 
+              i.fas.fa-dot-circle          
+              p.mb-0 Crear plan de soluciones y apoyo en temas de interés. 
 
-    .row.justify-content-center.align-items-center.mt-5
-      .col-lg-7
-        .row.justify-content-start.align-items-center(data-aos="flip-down")
-          .col-lg-12
-            h4.title.text-center.p-2 Estrategias a implementar para el crecimiento de la comunidad virtual 
-        p(data-aos="fade-down").mt-4 Brindar soporte y ayuda con acciones como:
-        ul.lista-ul--color(data-aos="fade-down")
-          li 
-            i.fas.fa-dot-circle          
-            p.mb-0 Crear contenido. 
-          li 
-            i.fas.fa-dot-circle          
-            p.mb-0 Crear eventos y foros. 
-          li 
-            i.fas.fa-dot-circle          
-            p.mb-0 Crear redes por temas de interés.
-          li 
-            i.fas.fa-dot-circle          
-            p.mb-0 Crear plan de soluciones y apoyo en temas de interés. 
-
-      .col-lg-5
-        img.img-a.img-t.my-3(data-aos="zoom-in")(src='@/assets/curso/temas/img46.png', alt='')
+        .col-lg-5
+          img.img-a.img-t.my-3(data-aos="zoom-in")(src='@/assets/curso/temas/img46.png', alt='')
 
     Separador 
     #t_1_5.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
@@ -694,25 +695,25 @@
           p.mt-1 
             span.b Los miembros activos 
             span incrementaron en un 
-          h4.mt-3 55,7%.
+          h3.mt-3 55,7%.
       .col-lg-6.col-md-6.col-xl-3.bg-card2.p-4(data-aos="fade-right")
         .bg-interno.p-5
           p.mt-1
             span.b Las personas que reaccionan 
             span incrementaron en un            
-          h4.mt-3 53.2%
+          h3.mt-3 53.2%
       .col-lg-6.col-md-6.col-xl-3.bg-card3.p-4(data-aos="fade-left")
         .bg-interno.p-5
           p.mt-1 
             span.b Las personas que publican 
             span incrementaron en un            
-          h4.mt-3  56.7%
+          h3.mt-3  56.7%
       .col-lg-6.col-md-6.col-xl-3.bg-card4.p-4(data-aos="fade-right")
         .bg-interno.p-5
           p.mt-1
             span.b Las personas que comentan 
             span incrementaron en un
-          h4.mt-3 64.8 %
+          h3.mt-3 64.8 %
 
     .row.justify-content-center.align-items-center.mt-5      
       .col-lg-7
@@ -725,44 +726,44 @@
 
       .col-lg-5
         img.img-a.img-t.my-3(data-aos="zoom-in")(src='@/assets/curso/temas/img62.png', alt='') 
+    .bg17
+      .row.justify-content-start.align-items-center.mt-5(data-aos="flip-down")
+        .col-lg-5
+          h4.title.text-center.p-2 Moderación reactiva y manejo de conflictos
+      p(data-aos="fade-down").mt-5 Ocurre cuando los miembros de la comunidad mediante sus acciones originan la intervención de quien lidera la comunidad, a continuación algunos ejemplos:
 
-    .row.justify-content-start.align-items-center.mt-5(data-aos="flip-down")
-      .col-lg-5
-        h4.title.text-center.p-2 Moderación reactiva y manejo de conflictos
-    p(data-aos="fade-down").mt-5 Ocurre cuando los miembros de la comunidad mediante sus acciones originan la intervención de quien lidera la comunidad, a continuación algunos ejemplos:
+      .row.justify-content-center.align-items-stretch.mt-5
+        .col-md-6.col-xl.mb-4.mb-xl-0.tarjeta-numerada.color-secundario.p-4(data-aos="fade-left")
+          .tarjeta-numerada__numero
+            .h2
+          img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img63.svg', alt='')
+          p.mt-4.text-center #[b Eliminación de spam] 
+          p.mt-3 Este procedimiento elimina los denominados correo basura, esta decisión la toma el administrador de la comunidad, el propósito es mantener una comunidad con contenido limpio.
+    
+        .col-md-6.col-xl.mb-4.mb-xl-0.tarjeta-numerada.color-secundario.p-4(data-aos="fade-right")
+          .tarjeta-numerada__numero
+            .h2
+          img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img64.svg', alt='')
+          p.mt-4.text-center #[b Bloquear a los trolls]        
+          p.mt-3 Este procedimiento consiste en la identificación de aquellos miembros de la comunidad que son considerados como molestos, por el contenido que suministran constantemente en los diferentes espacios de interacción e inmediatamente son bloqueados por el administrador de la comunidad.  
 
-    .row.justify-content-center.align-items-stretch.mt-5
-      .col-md-6.col-xl.mb-4.mb-xl-0.tarjeta-numerada.color-primario.p-4(data-aos="fade-left")
-        .tarjeta-numerada__numero
-          .h2
-        img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img63.svg', alt='')
-        p.mt-4.text-center #[b Eliminación de spam] 
-        p.mt-3 Este procedimiento elimina los denominados correo basura, esta decisión la toma el administrador de la comunidad, el propósito es mantener una comunidad con contenido limpio.
-  
-      .col-md-6.col-xl.mb-4.mb-xl-0.tarjeta-numerada.color-primario.p-4(data-aos="fade-right")
-        .tarjeta-numerada__numero
-          .h2
-        img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img64.svg', alt='')
-        p.mt-4.text-center #[b Bloquear a los trolls]        
-        p.mt-3 Este procedimiento consiste en la identificación de aquellos miembros de la comunidad que son considerados como molestos, por el contenido que suministran constantemente en los diferentes espacios de interacción e inmediatamente son bloqueados por el administrador de la comunidad.  
+        .col-md-6.col-xl.mb-4.mb-xl-0.tarjeta-numerada.color-secundario.p-4(data-aos="fade-left")
+          .tarjeta-numerada__numero
+            .h2
+          img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img65.svg', alt='')
+          p.mt-4.text-center #[b Eliminación de las discusiones que estén fuera del tema]       
+          p.mt-3 Este procedimiento consiste en la eliminación de aquellas conversaciones que no hacen parte del tema de discusión, no es eliminar al participante de la comunidad es mantener contenido limpio y relevante durante el espacio de interacción.
 
-      .col-md-6.col-xl.mb-4.mb-xl-0.tarjeta-numerada.color-primario.p-4(data-aos="fade-left")
-        .tarjeta-numerada__numero
-          .h2
-        img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img65.svg', alt='')
-        p.mt-4.text-center #[b Eliminación de las discusiones que estén fuera del tema]       
-        p.mt-3 Este procedimiento consiste en la eliminación de aquellas conversaciones que no hacen parte del tema de discusión, no es eliminar al participante de la comunidad es mantener contenido limpio y relevante durante el espacio de interacción.
-
-      .col-md-6.col-xl.mb-4.mb-xl-0.tarjeta-numerada.color-primario.p-4(data-aos="fade-right")
-        .tarjeta-numerada__numero
-          .h2            
-        img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img66.svg', alt='')
-        p.mt-4.text-center #[b Resolver conflictos]       
-        p.mt-3 Este procedimiento permite la intervención del administrador de la comunidad con el propósito de mantener un límite o frontera durante una discusión, en la cual los contenidos pueden estar fuera del contexto y de las normas que rigen la comunidad. 
+        .col-md-6.col-xl.mb-4.mb-xl-0.tarjeta-numerada.color-secundario.p-4(data-aos="fade-right")
+          .tarjeta-numerada__numero
+            .h2            
+          img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img66.svg', alt='')
+          p.mt-4.text-center #[b Resolver conflictos]       
+          p.mt-3 Este procedimiento permite la intervención del administrador de la comunidad con el propósito de mantener un límite o frontera durante una discusión, en la cual los contenidos pueden estar fuera del contexto y de las normas que rigen la comunidad. 
 
 
-    .row.justify-content-start.align-items-center.mt-5(data-aos="flip-down")
-      .col-lg-3
+    .row.justify-content-start.align-items-center.pt-5.mt-5(data-aos="flip-down")
+      .col-lg-3.up
         h4.title.text-center.p-2 Moderación proactiva               
     p(data-aos="fade-down").mt-5 Son el conjunto de normas o reglas que se aplican en los espacios de interacción de los miembros de la comunidad, también es denominada como cultura comunitaria y se implementa poniendo en práctica las siguientes acciones:
 

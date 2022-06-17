@@ -6,7 +6,7 @@
       .titulo-principal__numero
         span 3
       h1 Redes sociales
-    .bg7.p-5.d-none.d-lg-block
+    .bg7.p-5.d-none.d-lg-block.rad
       .row.justify-content-start.align-items-center.p-5
         .col-lg-11  
           .row.justify-content-start.align-items-center
@@ -119,7 +119,7 @@
     .bg10
       .row.justify-content-center.align-items-center.mt-5
         .col-lg-4
-          p.text-center Por su localización geográfica las redes sociales pueden ser:
+          p.text-center #[b Por su localización geográfica las redes sociales pueden ser:]
         .col-lg-8
           .row.mb-md-5(data-aos="fade-down")
             .col-lg-6.mb-3

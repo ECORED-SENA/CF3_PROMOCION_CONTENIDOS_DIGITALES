@@ -11,6 +11,9 @@
   width: auto
   height: auto 
 
+.b-sh
+  box-shadow: 2px 5px 5px #707070  
+
 .b
   color: #1169E3 !important   
 
@@ -69,17 +72,43 @@
   background-color: white  
 .tarjeta-numerada.color-primario
   cursor: pointer
-  border-color: white
+  border-color: #70707000
   background-color: #D7E4F6
+  box-shadow: 0px 5px 1px #7070701c
+
 .tarjeta-numerada.color-primario:hover
   cursor: pointer
-  border-color: white
+  border-color: #70707000
   background-color: #0C487B
+  box-shadow: 0px 5px 1px #7070701c
   * 
     color: white !important
   & h5
-    color: #e4eefb5e !important        
- 
+    color: #e4eefb5e !important    
+
+.tarjeta-numerada.color-secundario .tarjeta-numerada__numero
+  background-color: #F3F9FF  
+.tarjeta-numerada.color-secundario
+  cursor: pointer
+  border-color: #70707000
+  background-color: #D7E4F6
+  box-shadow: 0px 5px 1px #7070701c
+
+.tarjeta-numerada.color-secundario:hover
+  cursor: pointer
+  border-color: #70707000
+  background-color: #0C487B
+  box-shadow: 0px 5px 1px #7070701c
+  * 
+    color: white !important
+  & h5
+    color: #e4eefb5e !important  
+
+@media (max-width: 412px)                
+  .tarjeta-numerada.color-secundario
+    margin-left: 0px 
+  .tarjeta-numerada.color-primario
+    margin-left: 0px     
    
 .tarjeta.color-acento-botones
   background-color: #BCD9DD
@@ -119,6 +148,7 @@
     background-size: 100% auto  
     background-repeat: no-repeat
     background-position: center 
+
 .up
   z-index: 3 !important       
 
@@ -152,7 +182,18 @@
 .tarjeta.color-primario:hover *  
   color: white   
 .slyder-g__btn i
-  color: #707BA3       
+  color: #707BA3  
+
+.bg-sg
+  cursor: pointer 
+  background-color: #B0C8CB !important
+.bg-sg *
+  color: #12263F 
+.bg-sg:hover
+  cursor: pointer 
+  background-color: #1169E3 !important
+.bg-sg:hover *  
+  color: white   
 
 .tarjeta--azul
   background-image: url('../assets/curso/temas/img36.png')    
@@ -580,3 +621,43 @@
   border-color: white      
 .bgtr
   background-color:  #F6F6F6 
+
+.bg16
+  position: relative
+  .row, figure, p, h3, .titulo-sexto.color-primario
+    position: relative
+  &::before
+    content: ""
+    position: absolute
+    margin-left: -48px
+    margin-top: -10rem
+    width: calc( 100% + 96px )
+    height: 110%       
+    background-image: url('../assets/curso/temas/img154.png')
+    background-size: 100% auto  
+    background-repeat: no-repeat
+    background-position: center   
+
+.bg17
+  position: relative
+  .row, figure, p, h3, .titulo-sexto.color-primario
+    position: relative
+  &::before
+    content: ""
+    position: absolute
+    margin-left: -48px
+    margin-top: -2em
+    width: calc( 100% + 96px )
+    height: 110%       
+    background-image: url('../assets/curso/temas/img155.png')
+    background-size: 100% auto  
+    background-repeat: no-repeat
+    background-position: center       
+
+.bga
+  background-color: #0C487B !important
+  border-radius: 0px 10px 10px 0px  
+  margin-left: -2rem
+
+.bw
+  border: 10px solid white     
