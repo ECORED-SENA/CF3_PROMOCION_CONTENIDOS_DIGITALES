@@ -147,7 +147,9 @@
     background-image: url('../assets/curso/temas/img17.jpg')
     background-size: 100% auto  
     background-repeat: no-repeat
-    background-position: center 
+    background-position: center
+    @media (max-width: $bp-max-sm )
+      background-size: 100% 91% 
 
 .up
   z-index: 3 !important       
@@ -660,4 +662,20 @@
   margin-left: -2rem
 
 .bw
-  border: 10px solid white     
+  border: 10px solid white    
+
+.bg18
+  position: relative
+  .row, figure, p, h3, .titulo-sexto.color-primario
+    position: relative
+  &::before
+    content: ""
+    position: absolute
+    margin-left: -48px
+    margin-top: -2em
+    width: calc( 100% + 96px )
+    height: 90%       
+    background-image: url('../assets/curso/temas/img156.png')
+    background-size: 100% auto  
+    background-repeat: no-repeat
+    background-position: center   
