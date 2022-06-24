@@ -54,7 +54,7 @@
                 p Es el público al que va dirigido el mensaje, sin importar si lo van a adquirir o no. Esta es sobre la que se hace el estudio de mercado, con el fin de determinar sus principales inclinaciones en determinado tema.
             .row(numero="4" titulo="Real")
               .col-11
-                p Contempla a los espectadores del mensaje mientras se llevó a cabo la campaña en medios de comunicación o medios outdoor, no cuando esta ya terminó. Sirve para medir la potencia con la que cuentan diferentes canales de comunicación masiva.
+                p Contempla a los espectadores del mensaje mientras se llevó a cabo la campaña en medios de comunicación o medios <i>outdoor</i>, no cuando esta ya terminó. Sirve para medir la potencia con la que cuentan diferentes canales de comunicación masiva.
             .row(numero="5" titulo="Útil")
               .col-11
                 p Son los que se interesan en comprar determinado producto mientras que la campaña está al aire, no después de que terminó su periodo de vida. Estos suelen ver qué tan efectivos fueron los esfuerzos implementados.                                         
@@ -113,7 +113,7 @@
         .col-lg-6.col-md-6.col-xl-4.bg-card8.p-4(data-aos="fade-left")
           .bg-interno.p-4.h-100
             h4.b.text-center.mb-4 Verificar cuántos se convierten en leads
-            p.text-center Leads o cliente potencial que gracias al contenido del sitio web suministra información importante para la estrategia de marketing.  
+            p.text-center Leads o cliente potencial que gracias al contenido del sitio web suministra información importante para la estrategia de <i>marketing</i>.  
 
         .col-lg-6.col-md-6.col-xl-4.bg-card9.p-4(data-aos="fade-left")
           .bg-interno.p-4.h-100
@@ -129,7 +129,7 @@
       .col-lg-3.col-sm-my-3.my-sm-3
         img.img-a.img-t.my-3(data-aos="zoom-in")(src='@/assets/curso/temas/img137.png', alt='')
 
-    p(data-aos="fade-down").mt-5 Las 4C como modelo del marketing buscan evaluar al cliente así:
+    p(data-aos="fade-down").mt-5 Las 4C como modelo del <i>marketing</i> buscan evaluar al cliente así:
     .bg13(data-aos="slide-right")
       .row.justify-content-center.align-items-center.py-5
         .col-11
@@ -168,7 +168,7 @@
                   h4.mb-0 #[b Comunicación]         
               p.mt-4 Analiza la interacción con los consumidores (métricas).
 
-    p(data-aos="fade-down").mt-5 Entender a los consumidores en su comportamiento a la hora de consumir contenido permitirá la generación de estímulos mediante la implementación de estrategias de marketing personalizadas.  La interacción de la audiencia es la estrategia que a través de herramientas tecnológicas busca fomentar conversaciones y generar impacto en las diferentes comunidades virtuales y la sociedad. Dentro de las principales herramientas de interacción se destacan las redes sociales dentro de las cuales se pueden destacar: 
+    p(data-aos="fade-down").mt-5 Entender a los consumidores en su comportamiento a la hora de consumir contenido permitirá la generación de estímulos mediante la implementación de estrategias de <i>marketing</i> personalizadas.  La interacción de la audiencia es la estrategia que a través de herramientas tecnológicas busca fomentar conversaciones y generar impacto en las diferentes comunidades virtuales y la sociedad. Dentro de las principales herramientas de interacción se destacan las redes sociales dentro de las cuales se pueden destacar: 
 
     .row.justify-content-center.align-items-center
       .col-lg-10

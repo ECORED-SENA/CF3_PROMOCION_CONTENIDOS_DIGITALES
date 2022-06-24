@@ -71,21 +71,21 @@
             .col-lg-7
               .tarjeta-avatar-b(data-aos="fade-right").my-3
                 .tarjeta-avatar-b__img
-                  img(src='@/assets/curso/temas/img111.svg' alt='AvatarTop')
+                  img(src='@/assets/curso/temas/img111.svg' alt='Horizontales')
                 .tarjeta.bg-8.text-white
                   .p-4
                     h4 Horizontales
-                    p.mt-4 son aquellas que buscan contar con un gran número de usuarios, se caracterizan por la participación libre sin mayores restricciones, por ejemplo, Instagram, Facebook, Twitter.
+                    p.mt-4 Son aquellas que buscan contar con un gran número de usuarios, se caracterizan por la participación libre sin mayores restricciones, por ejemplo, Instagram, Facebook, Twitter.
 
               img.img-a.img-t.my-4(data-aos="flip-down")(src='@/assets/curso/temas/img113.svg', alt='')
 
               .tarjeta-avatar-b(data-aos="fade-right").my-3
                 .tarjeta-avatar-b__img
-                  img(src='@/assets/curso/temas/img112.svg' alt='AvatarTop')
+                  img(src='@/assets/curso/temas/img112.svg' alt='Verticales')
                 .tarjeta.bg-8.text-white
                   .p-4
                     h4 Verticales
-                    p.mt-4 son aquellas que tienen una temática definida para un público objetivo en concreto. 
+                    p.mt-4 Son aquellas que tienen una temática definida para un público objetivo en concreto. 
                     p Se caracterizan por la participación de usuarios que identifican la satisfacción de una necesidad en particular.                              
             .col-lg-5
               .row.justify-content-center.align-items-center

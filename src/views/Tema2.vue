@@ -37,7 +37,7 @@
           .col-auto.d-none.d-lg-block.p-0
             img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img90.svg', alt='')       
           .col-lg-10
-            p(data-aos="fade-down").mb-0 Estas plataformas digitales igualmente permiten determinar a través de sus KPI´s (Key Performance Indicator) analizar en tiempo real el número de visitas al perfil y cuál es el ranking actual en comparación con otros perfiles.  
+            p(data-aos="fade-down").mb-0 Estas plataformas digitales igualmente permiten determinar a través de sus KPI´s (Key Performance Indicator) analizar en tiempo real el número de visitas al perfil y cuál es el <i>ranking</i> actual en comparación con otros perfiles.  
         p(data-aos="fade-down").bg1.p-3.mt-4 En conclusión, un medio digital es el puente para la transmisión de la información.
       .col-lg-6.d-block.d-lg-none
         img.img-a.img-t.my-3(data-aos="zoom-in")(src='@/assets/curso/temas/img91.png', alt='')  
@@ -66,7 +66,7 @@
               .row.justify-content-center.mb-3
                 .col-8
                   img.img-a.img-t(src='@/assets/curso/temas/img94.svg' alt='AvatarTop')
-              h4.text-center Los e-books.
+              h4.text-center Los <i>e-books</i>.
             .crd.crd--100.tarjeta.color-primario.p-4.bg-sg
               .row.justify-content-center.mb-3
                 .col-8
@@ -76,6 +76,7 @@
     .row.justify-content-start.align-items-center.mt-5.pt-5(data-aos="flip-down")
       .col-lg-5    
         h4.title.text-center.text-center.p-2 Características de un medio digital
+    p(data-aos="fade-down").mt-4 Teniendo en cuenta las múltiples funciones y alternativas es importante conocer en detalle las principales características de un medio digital así:
 
     .row.justify-content-center.align-items-center.mt-4
       .col-lg-4.up
@@ -87,7 +88,7 @@
             .row.justify-content-center.align-items-center
               .col-lg-11
                 h4 Interactivo 
-                p Es la relación entre consumidor y proveedor de contenido una vez esta disponible. La interacción permite al usuario publicar diversos tipos de contenido sin la necesidad de ser un programador experto, tener contacto simultáneo con otros usuarios y mantener una relación directa con empresas y comunidades de su interés.                                
+                p Es la relación entre consumidor y proveedor de contenido una vez está disponible. La interacción permite al usuario publicar diversos tipos de contenido sin la necesidad de ser un programador experto, tener contacto simultáneo con otros usuarios y mantener una relación directa con empresas y comunidades de su interés.                                
           .tarjeta.color-acento-botones--borde.p-4(titulo="Sujeto activo para el consumidor")
             .row.justify-content-center.align-items-center
               .col-lg-11
@@ -99,7 +100,7 @@
                 h4 Almacenador datos 
                 p Todos los contenidos que forman parte de un medio digital (textos, videos, audios, publicidad, etc.) se encuentran siempre alojados en equipos informáticos de gran capacidad denominados servidores.
  
-                p La gran cantidad de información que se puede conseguir implica un cambio en las gestiones de bases de datos y clientes (CRM) (Customer Relationship Management), pasando a niveles de gestión más complejos (CEM) (Customer Experience Management) donde el reto es unir diferentes sistemas de recogida de datos y crear almacenes donde se unan registros sociodemográficos y comportamentales. 
+                p La gran cantidad de información que se puede conseguir implica un cambio en las gestiones de bases de datos y clientes (CRM) (#[i Customer Relationship Management]), pasando a niveles de gestión más complejos (CEM) (#[i Customer Experience Management]) donde el reto es unir diferentes sistemas de recogida de datos y crear almacenes donde se unan registros sociodemográficos y comportamentales. 
           .tarjeta.color-acento-botones--borde.p-4(titulo="Personalizador de la comunicación")
             .row.justify-content-center.align-items-center
               .col-lg-11
@@ -163,7 +164,7 @@
         .row.justify-content-start.align-items-center(data-aos="flip-down")
           .col-lg-5 
             h4.title.text-center.text-center.p-2 Medios digitales ganados
-        p(data-aos="fade-down").mt-4 Son aquellos ganados por la implementación de estrategias de marketing digital en concreto y por el negocio en general, que consigue obtener de los consumidores reacciones sinceras y espontáneas de manera orgánica. 
+        p(data-aos="fade-down").mt-4 Son aquellos ganados por la implementación de estrategias de <i>marketing</i> digital en concreto y por el negocio en general, que consigue obtener de los consumidores reacciones sinceras y espontáneas de manera orgánica. 
         p(data-aos="fade-down") Esto pasa cuando los consumidores recomiendan el negocio, comparten sus publicaciones, lo mencionan en las redes sociales y así en adelante.
 
         p(data-aos="fade-down").b #[b Ventajas:] 
@@ -173,7 +174,7 @@
             p.mb-0 La inversión es directa en la adquisición de herramientas, equipos de trabajo y recurso humano. 
           li 
             i.fas.fa-dot-circle          
-            p.mb-0 La fidelización de clientes es el resultado de la estrategia de marketing.                
+            p.mb-0 La fidelización de clientes es el resultado de la estrategia de <i>marketing</i>.                
 
     p(data-aos="fade-down").mt-5.text-center Algunos ejemplos de medios ganados son los siguientes:  
     .row.justify-content-center.align-items-center.mt-5
@@ -184,19 +185,19 @@
               .col-auto.p-0.up
                 img(data-aos="zoom-in")(src='@/assets/curso/temas/1.svg', alt='') 
               .col.bga.p-3 
-                h5.ms-4.mb-0.text-white User generated content
-          .col-lg-3.col-sm-8.bw.col-md-6
+                h5.ms-4.mb-0.text-white #[i User generated content]
+          .col-lg-4.col-sm-8.bw.col-md-6
             .row.justify-content-start.align-items-center
               .col-auto.p-0.up
                 img(data-aos="zoom-in")(src='@/assets/curso/temas/2.svg', alt='') 
               .col.bga.p-3 
-                h5.ms-4.mb-0.text-white Linkbuilding
-          .col-lg-5.col-sm-8.bw.col-md-6
+                h5.ms-4.mb-0.text-white #[i Linkbuilding]
+          .col-lg-4.col-sm-8.bw.col-md-6
             .row.justify-content-start.align-items-center
               .col-auto.p-0.up
                 img(data-aos="zoom-in")(src='@/assets/curso/temas/3.svg', alt='') 
               .col.bga.p-3 
-                h5.ms-4.mb-0.text-white Search Engine Optimization – SEO
+                h5.ms-4.mb-0.text-white #[i Search Engine Optimization – SEO]
 
         .row.justify-content-start.align-items-center
           .col-lg-5.col-sm-8.bw.col-md-6
@@ -216,7 +217,7 @@
     .row.justify-content-start.align-items-center.mt-5.pt-5(data-aos="flip-down")
       .col-lg-4 
         h4.title.text-center.text-center.p-2 Medios digitales propios 
-    p(data-aos="fade-down").mt-5 Son las páginas web, blogs, base de datos de email marketing y perfiles en las redes sociales, que utiliza la empresa para hablar sobre sí misma y divulgar sus productos y servicios. 
+    p(data-aos="fade-down").mt-5 Son las páginas web, <i>blogs</i>, base de datos de <i>email marketing</i> y perfiles en las redes sociales, que utiliza la empresa para hablar sobre sí misma y divulgar sus productos y servicios. 
 
     .row.justify-content-center.align-items-stretch.mt-5
       .col-lg-6.col-color1.p-4(data-aos="fade-left")
@@ -259,7 +260,7 @@
           .col-auto.d-none.d-lg-block.p-0
             img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img102.svg', alt='')       
           .col-lg-10
-            p(data-aos="fade-down").mb-0 Su funcionalidad está basada en sistemas operativos y software conforme a la finalidad del servicio para las que son creadas y, son valoradas como una gran herramienta administrativa como estrategia digital que incentiva la participación cuando suplen necesidades básicas de una comunidad.         
+            p(data-aos="fade-down").mb-0 Su funcionalidad está basada en sistemas operativos y <i>software</i> conforme a la finalidad del servicio para las que son creadas y, son valoradas como una gran herramienta administrativa como estrategia digital que incentiva la participación cuando suplen necesidades básicas de una comunidad.         
       .col-lg-4
         img.img-a.img-t.my-3(data-aos="zoom-in")(src='@/assets/curso/temas/img103.png', alt='')  
 

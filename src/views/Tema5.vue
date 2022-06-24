@@ -12,12 +12,12 @@
         .col-lg-11  
           .row.justify-content-start.align-items-center
             .col-lg-7 
-              p(data-aos="fade-down").mb-0 Partiendo del concepto de community management que se ha venido desarrollando en el componente formativo se hace necesario enfocar las acciones requeridas para identificar, diagnosticar y evaluar el rol de las personas en las comunidades virtuales y cómo cada una de las estrategias proyectadas debe tener un enfoque preciso respecto a la población a la que se quiere impactar. Los seguidores son entonces la población de interés de una campaña y quienes dinamizan o no una estrategia.
+              p(data-aos="fade-down").mb-0 Partiendo del concepto de <i>community management</i> que se ha venido desarrollando en el componente formativo se hace necesario enfocar las acciones requeridas para identificar, diagnosticar y evaluar el rol de las personas en las comunidades virtuales y cómo cada una de las estrategias proyectadas debe tener un enfoque preciso respecto a la población a la que se quiere impactar. Los seguidores son entonces la población de interés de una campaña y quienes dinamizan o no una estrategia.
 
     .bg18
       .row.justify-content-center.align-items-center.bg7-1.p-4.d-block.d-lg-none
         .col-12
-          p(data-aos="fade-down").mb-0 Partiendo del concepto de community management que se ha venido desarrollando en el componente formativo se hace necesario enfocar las acciones requeridas para identificar, diagnosticar y evaluar el rol de las personas en las comunidades virtuales y cómo cada una de las estrategias proyectadas debe tener un enfoque preciso respecto a la población a la que se quiere impactar. Los seguidores son entonces la población de interés de una campaña y quienes dinamizan o no una estrategia. 
+          p(data-aos="fade-down").mb-0 Partiendo del concepto de <i>community management</i> que se ha venido desarrollando en el componente formativo se hace necesario enfocar las acciones requeridas para identificar, diagnosticar y evaluar el rol de las personas en las comunidades virtuales y cómo cada una de las estrategias proyectadas debe tener un enfoque preciso respecto a la población a la que se quiere impactar. Los seguidores son entonces la población de interés de una campaña y quienes dinamizan o no una estrategia. 
 
       .row.justify-content-center.align-items-center.mt-5
         .col-lg-4
@@ -26,7 +26,7 @@
           .row.justify-content-start.align-items-center(data-aos="flip-down")
             .col-lg-4 
               h4.title.text-center.text-center.p-2 Concepto de seguidor
-          p(data-aos="fade-down").mt-4 Es aquella persona que por voluntad propia sigue a otra.  En el mundo del marketing digital y el empresarial se considera seguidor a toda persona que interactúa en la comunidad como respuesta al contenido que se encuentra en los canales digitales.  Los seguidores tienen varias particularidades, son leales, activos y defensores del contenido del sitio web, a tal punto que terminan difundiéndolo y creando más audiencia. También suelen llamarse fans, por ejemplo, una cuenta en la red social Twitter identifica seguidores.       
+          p(data-aos="fade-down").mt-4 Es aquella persona que por voluntad propia sigue a otra.  En el mundo del <i>marketing</i> digital y el empresarial se considera seguidor a toda persona que interactúa en la comunidad como respuesta al contenido que se encuentra en los canales digitales.  Los seguidores tienen varias particularidades, son leales, activos y defensores del contenido del sitio web, a tal punto que terminan difundiéndolo y creando más audiencia. También suelen llamarse <i>fans</i>, por ejemplo, una cuenta en la red social Twitter identifica seguidores.       
 
       Separador 
       #t_5_1.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
@@ -76,7 +76,7 @@
         .col-lg-7
           p(data-aos="fade-down") La construcción de una comunidad se basa específicamente en la identificación del objetivo a lograr, del segmento  y del mercado al cual se desea dar alcance. 
 
-          p(data-aos="fade-down").mb-0 Por lo anterior, cada seguidor se convierte en el mejor canal de difusión para el contenido que crea la estrategia de marketing digital.       
+          p(data-aos="fade-down").mb-0 Por lo anterior, cada seguidor se convierte en el mejor canal de difusión para el contenido que crea la estrategia de <i>marketing</i> digital.       
 
       p(data-aos="fade-down").mt-5 El éxito de alcanzar un buen número de seguidores radica en enfocar la estrategia, teniendo definido el tipo de  seguidor al cual se quiere involucrar.
       .row.justify-content-center.align-items-center

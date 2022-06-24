@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Fundamentos del <i>Community Management</i>',
     descripcionCurso:
-      'Como transcender y consolidar una audiencia y seguidores se ha convertido en un reto para toda empresa en el escenario digital, este documento contempla los fundamentos básicos del community management como herramienta del mercadeo para posicionar la marca (empresa) en Internet, a través de la producción y promoción de contenidos digitales.',
+      'Cómo transcender y consolidar una audiencia y seguidores se ha convertido en un reto para toda empresa en el escenario digital, este documento contempla los fundamentos básicos del <i>community management</i> como herramienta del mercadeo para posicionar la marca (empresa) en Internet, a través de la producción y promoción de contenidos digitales.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
   },
@@ -60,13 +60,13 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '1.6',
-            titulo: 'Plan de marketing online',
+            titulo: 'Plan de <i>marketing online</i>',
             hash: 't_1_6',
           },
           {
             icono: 'far fa-file-alt',
             numero: '1.7',
-            titulo: 'Construcción del plan de marketing online',
+            titulo: 'Construcción del plan de <i>marketing online</i>',
             hash: 't_1_7',
           },
         ],
@@ -230,7 +230,7 @@ export default {
   },
   complementario: [
     {
-      tema: 'Fundamentos de marketing',
+      tema: 'Fundamentos de <i>marketing</i>',
       referencia:
         'Kotler, P. & Armstrong, G. (2003). Fundamentos de <i>marketing</i>. Pearson Educación.',
       tipo: 'Libro',
@@ -483,7 +483,54 @@ export default {
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Zuleidy María Ruíz Torres',
+        cargo: 'Producción audiovisual',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
+      },
+      {
+        nombre: 'Wilson Andrés Arenales Cáceres',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Gilberto Junior Rodríguez Rodríguez',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Camilo Andrés Bolaño Rey',
+        cargo: 'Locución',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'María Carolina Tamayo López',
+        cargo: 'Locución',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Lina Marcela Pérez Manchego',
+        cargo: 'Ilustración',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Ludwyng Corzo García',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Carmen Alicia Martínez Torres',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Erika Viviana Sandoval Rojas',
         cargo: 'Producción audiovisual',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
@@ -495,7 +542,7 @@ export default {
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Yenny Patricia Ulloa Villamizar',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',

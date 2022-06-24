@@ -48,7 +48,7 @@
           .crd.crd-white.crd--100.p-4
             p.text-white.p-center.mb-0 Jiménez y Martínez (2002) hacen referencias a ellas como “… la utilización de un mismo espacio para compartir valores, lenguaje, experiencias y un propósito común” (p.  29).
           .crd.crd-white.crd--100.p-4
-            p.text-white.p-center.mb-0 Salinas (2003, 36) manifiesta quw  surge una comunidad virtual “cuando una comunidad real usa la telemática para mantener y ampliar la comunicación. El hecho de que la interacción entre las personas se pueda realizar entre personas físicamente, pero enlazadas mediante redes telemáticas es lo que lleva a hablar de comunidades virtuales, y que pueden considerarse comunidades personales, en cuanto que son comunidades personales basadas en los intereses individuales y en las afinidades y valores de las personas.”
+            p.text-white.p-center.mb-0 Salinas (2003, 36) manifiesta que  surge una comunidad virtual “cuando una comunidad real usa la telemática para mantener y ampliar la comunicación. El hecho de que la interacción entre las personas se pueda realizar entre personas físicamente, pero enlazadas mediante redes telemáticas es lo que lleva a hablar de comunidades virtuales, y que pueden considerarse comunidades personales, en cuanto que son comunidades personales basadas en los intereses individuales y en las afinidades y valores de las personas.”
           .crd.crd-white.crd--100.p-4
             p.text-white.p-center.mb-0 Pazos y otros (2002) son “entornos basados en Web que agrupan personas relacionadas con una temática específica que además de las listas de distribución (primer nodo de la comunidad virtual) comparten documentos y recursos.”
           .crd.crd-white.crd--100.p-4
@@ -74,7 +74,7 @@
 
           p(data-aos="fade-down").bg1.p-4 Igualmente, según el interés y el autor se encontrará otras clasificaciones, por ejemplo, para Polo (1998) estas se pueden dar en tres sentidos: el primero, centrado en las personas cuyo propósito es disfrutar de la compañía de sus integrantes,  el segundo, centrado en el tema de interés y el tercero, centrado en un acontecimiento o acontecimiento externo que llama la atención de las personas. 
 
-          p(data-aos="fade-down") Uno de los propósitos de toda organización es lograr impactar a través de las TIC con sus estrategias de marketing a las comunidades, por lo tanto, es de gran relevancia lo enunciado por Hagel y Armstrong (1997) hay dos tipos claramente diferenciados, las orientadas hacia el usuario y las orientadas hacia la organización.                     
+          p(data-aos="fade-down") Uno de los propósitos de toda organización es lograr impactar a través de las TIC con sus estrategias de <i>marketing</i> a las comunidades, por lo tanto, es de gran relevancia lo enunciado por Hagel y Armstrong (1997) hay dos tipos claramente diferenciados, las orientadas hacia el usuario y las orientadas hacia la organización.                     
 
     .row.justify-content-center.align-items-center
       .col-lg-3.d-block.d-lg-none
@@ -371,13 +371,13 @@
 
     img.img-a.img-t.mt-5(data-aos="zoom-in")(src='@/assets/curso/temas/img34.svg', alt='')  
 
-    p(data-aos="fade-down").mt-5 Adicionalmente se debe crear una estrategia de marketing de contenidos para la red social elegida.
+    p(data-aos="fade-down").mt-5 Adicionalmente se debe crear una estrategia de <i>marketing</i> de contenidos para la red social elegida.
 
     .row.justify-content-start.align-items-center.mt-5(data-aos="flip-down")
       .col-lg-3
         h4.title.text-center.p-2 Identificar la audiencia
 
-    p(data-aos="fade-down").mt-5 Cuando se busca crear una comunidad virtual es esencial conocer con quienes se va a interactuar, identificar la audiencia es un punto clave y es importante aplicar el siguiente test: 
+    p(data-aos="fade-down").mt-5 Cuando se busca crear una comunidad virtual es esencial conocer con quienes se va a interactuar, identificar la audiencia es un punto clave y es importante aplicar el siguiente <i>test</i>: 
 
     .row.justify-content-start.align-items-stretch.mt-4
       .col-lg-6.my-3
@@ -401,7 +401,7 @@
               h5.text-center ¿Cuántos hijos tiene?
               h5.text-center ¿Cuántos años tienen?
 
-    p(data-aos="fade-down").mt-5 Este punto es sumamente importante porque es la guía y base para la generación de contenido.  La estrategia de marketing de contenidos debe estar diseñada conforme a la audiencia.               
+    p(data-aos="fade-down").mt-5 Este punto es sumamente importante porque es la guía y base para la generación de contenido.  La estrategia de <i>marketing</i> de contenidos debe estar diseñada conforme a la audiencia.               
     .row.justify-content-center.align-items-center.mt-5
       .col-lg-7
         .row.justify-content-start.align-items-center(data-aos="flip-down")
@@ -422,7 +422,7 @@
           .col-lg-6
             h4.title.text-center.p-2 Crear un calendario de contenido
         p(data-aos="fade-down") Es la programación de acciones en función del tiempo para generar diferentes interacciones de los miembros de la comunidad y crear expectativas con los temas de interés.
-        p(data-aos="fade-down") El calendario debe estar diseñado conforme a la estrategia de marketing de contenido.
+        p(data-aos="fade-down") El calendario debe estar diseñado conforme a la estrategia de <i>marketing</i> de contenido.
         p(data-aos="fade-down") En definitiva, construir una comunidad virtual tiene su complejidad como todo proceso, lo importante es alcanzar los objetivos planteados en beneficio de los participantes.
 
     Separador 
@@ -649,7 +649,7 @@
               p.mb-0 Dar agradecimientos públicos.
             li 
               i.fas.fa-dot-circle          
-              p.mb-0 Promover el shout outs.
+              p.mb-0 Promover el <i>shout outs</i>.
             li 
               i.fas.fa-dot-circle          
               p.mb-0 Dar premios y regalos.
@@ -807,7 +807,7 @@
 
     Separador 
     #t_1_6.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
-      h2 1.6  Plan de #[b marketing online]
+      h2 1.6  Plan de #[b #[i marketing online]]
 
     .row.justify-content-center.align-items-center.mt-5
       .col-lg-7
@@ -817,7 +817,7 @@
           .col-lg-3     
             h4.title.text-center.text-center.p-2 Características
  
-        p(data-aos="fade-down") Son el conjunto de normas o reglas que se aplican en los espacios de interacción de los miembros de la comunidad, también es denominada como cultura comunitaria y se implementa poniendo en práctica las siguientes acciones: 
+        p(data-aos="fade-down") Para la elaboración del plan de <i>marketing online</i> es importante que toda la organización se involucre en el proceso y debe ser:
                 
         SlyderG.mt-5(columnas="col-lg-4")(data-aos="fade-right")
           .crd.crd--100.tarjeta.color-primario.p-3
@@ -860,7 +860,7 @@
 
     Separador 
     #t_1_7.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
-      h2 1.7  Construcción del plan de #[b marketing online]
+      h2 1.7  Construcción del plan de #[i marketing online]
     p(data-aos="fade-down") Se puede desarrollar en 7 pasos, los cuales se describen a continuación. 
          
     AcordionA.mt-5(tipo="a" clase-tarjeta="tarjeta tarjeta--gris")(data-aos="fade-left")
@@ -868,12 +868,12 @@
         .col-lg-7
           p ¿Cómo hacerlo? En dos momentos 
 
-          p a) Aplicar test de tres preguntas 
+          p a) Aplicar <i>test</i> de tres preguntas 
           p.ps-3 ¿Quiénes son?
           p.ps-3 ¿Dónde pasan el tiempo libre o lugar de trabajo? 
           p.ps-3 ¿Qué temas leen en los periódicos, revistas o canales digitales?
 
-          p b) Crear el buyer persona. 
+          p b) Crear el <i>buyer</i> persona. 
  
           p Es la representación ficticia de una persona con características muy particulares y de interés para el cumplimiento de los objetivos de la empresa o comunidad.
 
@@ -903,19 +903,19 @@
 
           p a) Valorar en escala numérica cada canal digital para establecer qué tan valioso o importante es el canal para la organización.
 
-          p b) Realizar campañas de e-mail marketing con temas específicos para verificar el tráfico en Google Analytics.
+          p b) Realizar campañas de <i>e-mail marketing</i> con temas específicos para verificar el tráfico en Google Analytics.
 
-          p c) Aplicar el siguiente test para identificar los canales digitales más óptimos. 
+          p c) Aplicar el siguiente <i>test</i> para identificar los canales digitales más óptimos. 
  
           p #[b En cuanto a los objetivos de la empresa: ]
           p ¿Cuáles son las principales prioridades de la empresa? 
           p ¿Conocimiento de la marca, educación, tráfico sin procesar o ventas?
  
           p #[b Presupuesto:]
-          p ¿Cuánto se debe invertir en los esfuerzos de marketing?
+          p ¿Cuánto se debe invertir en los esfuerzos de <i>marketing</i>?
  
           p Recursos disponibles: 
-          p ¿Qué personal o personas subcontratadas se tienen disponibles para crear o hacer remarketing de contenido?
+          p ¿Qué personal o personas subcontratadas se tienen disponibles para crear o hacer <i>remarketing</i> de contenido?
  
           p #[b Contenido disponible: ]
           p ¿Qué contenido se tiene ya? 
@@ -932,11 +932,11 @@
  
           p ¿Cómo hacerlo? 
  
-          p a) Implementar tácticas de marketing en redes sociales para el posicionamiento de la marca y mejorar los servicios al cliente.
+          p a) Implementar tácticas de <i>marketing</i> en redes sociales para el posicionamiento de la marca y mejorar los servicios al cliente.
  
-          p b) Implementar marketing en motores de búsqueda, Google+ y marketing por correo electrónico para generar ventas y tráfico web.
+          p b) Implementar <i>marketing</i> en motores de búsqueda, Google+ y <i>marketing</i> por correo electrónico para generar ventas y tráfico web.
  
-          p c) Implementar estrategias de monitoreo de resultados, utilizando las herramientas disponibles en los canales de social media.  
+          p c) Implementar estrategias de monitoreo de resultados, utilizando las herramientas disponibles en los canales de <i>social media</i>.  
         .col-lg-5 
           img.img-a.img-t.my-3(src='@/assets/curso/temas/img83.png', alt='') 
 
@@ -952,11 +952,11 @@
         .col-lg-7
           p ¿Cómo hacerlo? 
  
-          p a) Implementar un seguimiento del tráfico, los objetivos y las conversiones en Google Analytics y otras métricas, como Facebook Insights para probar si las campañas de marketing digital funcionan.
+          p a) Implementar un seguimiento del tráfico, los objetivos y las conversiones en Google Analytics y otras métricas, como Facebook Insights para probar si las campañas de <i>marketing</i> digital funcionan.
  
           p b) Implementar para identificar preferencias de las personas en las visitas el sitio web como mecanismo de evaluación para extraer ideas.
  
-          p c) Implementar el monitoreo y la generación de informes para evaluar la estrategia de marketing digital y obtener información relevante con miras a próximas acciones.
+          p c) Implementar el monitoreo y la generación de informes para evaluar la estrategia de <i>marketing</i> digital y obtener información relevante con miras a próximas acciones.
  
           p d) Implementar las pruebas a y b  para identificar si la campaña es exitosa.
         .col-lg-5 
@@ -966,11 +966,11 @@
         .col-lg-7
           p ¿Cómo hacerlo? 
  
-          p a) Implementar e institucionalizar las reuniones de control de resultados de las campañas de marketing. 
+          p a) Implementar e institucionalizar las reuniones de control de resultados de las campañas de <i>marketing</i>. 
  
-          p b) Implementar herramientas de marketing esenciales como Google Search Console y Google Analytics.
+          p b) Implementar herramientas de <i>marketing</i> esenciales como Google Search Console y Google Analytics.
  
-          p La tecnología hoy es el mejor aliado para crear campañas de marketing personalizadas, automatizadas y por tanto, exitosas.  
+          p La tecnología hoy es el mejor aliado para crear campañas de <i>marketing</i> personalizadas, automatizadas y por tanto, exitosas.  
         .col-lg-5 
           img.img-a.img-t.my-3(src='@/assets/curso/temas/img86.png', alt='')
 </template>
