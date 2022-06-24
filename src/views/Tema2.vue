@@ -61,7 +61,7 @@
               .row.justify-content-center.mb-3
                 .col-8
                   img.img-a.img-t(src='@/assets/curso/temas/img93.svg' alt='AvatarTop')
-              h4.text-center Los banners en los sitios web. 
+              h4.text-center Los <i>banners</i> en los sitios web. 
             .crd.crd--100.tarjeta.color-primario.p-4.bg-sg
               .row.justify-content-center.mb-3
                 .col-8

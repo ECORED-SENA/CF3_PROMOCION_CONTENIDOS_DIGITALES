@@ -914,7 +914,7 @@
           p #[b Presupuesto:]
           p ¿Cuánto se debe invertir en los esfuerzos de <i>marketing</i>?
  
-          p Recursos disponibles: 
+          p #[b Recursos disponibles:] 
           p ¿Qué personal o personas subcontratadas se tienen disponibles para crear o hacer <i>remarketing</i> de contenido?
  
           p #[b Contenido disponible: ]
