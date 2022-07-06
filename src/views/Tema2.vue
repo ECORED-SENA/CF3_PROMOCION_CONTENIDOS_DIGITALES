@@ -122,10 +122,10 @@
                 p Gran diversidad de formatos publicitarios y posibilidades creativas.
                 p Calidad del impacto publicitario.
  
-          .tarjeta.color-acento-botones--borde.p-4(titulo="Continúo en el tiempo y espacio")
+          .tarjeta.color-acento-botones--borde.p-4(titulo="Continuo en el tiempo y espacio")
             .row.justify-content-center.align-items-center
               .col-lg-11
-                h4 Continúo en el tiempo y espacio 
+                h4 Continuo en el tiempo y espacio 
                 p Hay disponibilidad para el usuario del contenido todos los días del año y 24 horas al día. La accesibilidad depende del consumidor. No solo es continuo en el tiempo, también en el espacio; se puede acceder a él desde diferentes sitios (casa, trabajo, medios de transporte, etc.), desde diferentes ciudades (Bogotá, Sao Paulo, Buenos Aires, Miami, Boston) y desde distintos dispositivos (PC, móvil, tablet). 
           .tarjeta.color-acento-botones--borde.p-4(titulo="Imagen")
             .row.justify-content-center.align-items-center

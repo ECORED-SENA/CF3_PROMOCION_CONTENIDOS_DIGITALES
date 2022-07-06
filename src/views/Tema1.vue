@@ -11,7 +11,7 @@
       .col-lg-9
         .row.justify-content-center.align-items-center
           .col-lg-8
-            p(data-aos="fade-down") Para entender a que hace referencia el concepto de comunidad virtual se hace necesario, en primera instancia, conocer la definición del término comunidad y del término virtual. 
+            p(data-aos="fade-down") Para entender a qué hace referencia el concepto de comunidad virtual se hace necesario, en primera instancia, conocer la definición del término comunidad y del término virtual. 
             p(data-aos="fade-down") Para Baym (2002), el término comunidad es muy complejo de definir, 
               span.b #[b “ya que tiene connotaciones descriptivas, normativas e ideológicas y abarca tanto dimensiones materiales como simbólicas” (p. 55)]
               span , es decir, el término comunidad abarca diferentes escenarios donde el individuo tiene la posibilidad de expresarse de acuerdo con sus ideologías y creencias. 
